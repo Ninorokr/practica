@@ -1,0 +1,1 @@
+Eliminar proyecto despues de terminar las pruebas
